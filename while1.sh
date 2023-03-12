@@ -5,3 +5,4 @@ do
   sleep 0.7
 done
 echo "file doesnt exist"
+
