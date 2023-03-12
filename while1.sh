@@ -1,6 +1,5 @@
 #/bin/bash
-myfile= ~/Code/bash/testfile
-while [ -f $myfile ]
+while [ -f ~/Code/bash/testfile ]
 do
   echo "file exists"
   sleep 0.7
