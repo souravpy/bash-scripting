@@ -1,0 +1,13 @@
+   Static hostname: n/a
+Transient hostname: fedora
+         Icon name: computer-laptop
+           Chassis: laptop 💻
+        Machine ID: f5e16eedaacb4965a876aee028725875
+           Boot ID: 4960d040877242f2ae1f1736995f67a5
+  Operating System: Fedora Linux 37 (Workstation Edition)
+       CPE OS Name: cpe:/o:fedoraproject:fedora:37
+            Kernel: Linux 6.1.18-200.fc37.x86_64
+      Architecture: x86-64
+   Hardware Vendor: ASUSTeK COMPUTER INC.
+    Hardware Model: VivoBook_ASUSLaptop X403JA_S403JA
+  Firmware Version: X403JA.305
